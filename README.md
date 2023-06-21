@@ -6,7 +6,10 @@ A concept that enables the creation of stateful micro-apps using ChatGPT prompts
 
 Prompt Enabled Apps (PEA) is a concept that allows the utilization of ChatGPT in building stateful micro-apps for personal use. By engineering ChatGPT with prompts, it becomes possible to create a persistent and stateful application-like experience.
 
-This idea was inspired by the book "Designing Machine Learning Systems" by Chip Huyen, where the potential of using ChatGPT for application development was realized.
+This idea was inspired while reading the book "Designing Machine Learning Systems" by Chip Huyen, when reading about various enterprise solutions and it sparked my interest to use an existing LLM.
+
+Initial idea was formed while reading this repo, would like to extend and cite:
+V. (2023, March 3). GitHub - varunshenoy/GraphGPT: Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️. GitHub. https://github.com/varunshenoy/GraphGPT
 
 ## Motivation
 
