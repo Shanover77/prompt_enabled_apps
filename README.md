@@ -47,7 +47,3 @@ It is important to be aware of the limitations associated with using Prompt Enab
 Opinions, suggestions, and critiques regarding the Prompt Enabled Apps approach are highly encouraged. Feel free to share your thoughts, propose potential use cases, or identify further limitations. This post was intentionally kept informal to facilitate open discussion among AI enthusiasts and students.
 
 Disclaimer: While referring to these micro-apps as "apps" may be an exaggeration, it adds a touch of excitement to the concept, reminiscent of many fascinating aspects of AI.
-
----
-
-*Note: The concept of Prompt Enabled Apps (PEA) discussed in this readme is based on the personal experience and experimentation of the author. It is not an officially endorsed feature of ChatGPT or associated with its creators.*
